@@ -4,4 +4,4 @@
 
 AI-powered tools.  
 
-🌐 [Website](https://rushed-ai.vercel.app)
+🌐 [Website](https://vortex-api.vercel.app)
